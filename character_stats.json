@@ -1,0 +1,28 @@
+{
+    "name": "harry hogan",
+    "level": 9,
+    "proficiency_bonus": 4,
+    "ability_scores": {
+      "str": 14,
+      "dex": 16,
+      "con": 14,
+      "int": 10,
+      "wis": 15,
+      "cha": 14
+    },
+    "equipment": {
+      "short_sword": {
+        "name": "Short Sword",
+        "dice": 6,
+        "damage_type": "piercing",
+        "modifier": "dex"
+      },
+      "bow": {
+        "name": "Bow",
+        "dice": 8,
+        "damage_type": "piercing",
+        "modifier": "dex",
+        "fighting_style": 2
+      }
+    }
+  }
